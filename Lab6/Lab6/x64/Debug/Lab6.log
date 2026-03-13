@@ -1,7 +1,7 @@
 ﻿  Lab6.c
-C:\Users\admin\PycharmProjects\PythonProject\c\Lab6\Lab6\Lab6.c(13,2): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\admin\PycharmProjects\PythonProject\c\Lab6\Lab6\Lab6.c(13,8): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\admin\PycharmProjects\PythonProject\c\Lab6\Lab6\Lab6.c(14,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-C:\Users\admin\PycharmProjects\PythonProject\c\Lab6\Lab6\Lab6.c(17,11): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\admin\PycharmProjects\PythonProject\c\Lab6\Lab6\Lab6.c(11,10): warning C4101: a1: неиспользованная локальная переменная
-  Lab6.vcxproj -> C:\Users\admin\PycharmProjects\PythonProject\c\Lab6\x64\Debug\Lab6.exe
+C:\Users\admin\PycharmProjects\PythonProject\lab4\LR9\Charlotte\Lab6\Lab6\Lab6.c(13,2): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\admin\PycharmProjects\PythonProject\lab4\LR9\Charlotte\Lab6\Lab6\Lab6.c(13,8): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\admin\PycharmProjects\PythonProject\lab4\LR9\Charlotte\Lab6\Lab6\Lab6.c(14,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\admin\PycharmProjects\PythonProject\lab4\LR9\Charlotte\Lab6\Lab6\Lab6.c(17,11): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\admin\PycharmProjects\PythonProject\lab4\LR9\Charlotte\Lab6\Lab6\Lab6.c(11,11): warning C4101: a1: неиспользованная локальная переменная
+  Lab6.vcxproj -> C:\Users\admin\PycharmProjects\PythonProject\lab4\LR9\Charlotte\Lab6\x64\Debug\Lab6.exe
