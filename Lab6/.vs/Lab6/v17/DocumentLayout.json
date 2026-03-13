@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\PycharmProjects\\PythonProject\\c\\Lab6\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\PycharmProjects\\PythonProject\\lab4\\LR9\\Charlotte\\Lab6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{950A4E69-8301-4649-8A94-3E3CDE085999}|Lab6\\Lab6.vcxproj|C:\\Users\\admin\\PycharmProjects\\PythonProject\\c\\Lab6\\Lab6\\Lab6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{950A4E69-8301-4649-8A94-3E3CDE085999}|Lab6\\Lab6.vcxproj|C:\\Users\\admin\\PycharmProjects\\PythonProject\\lab4\\LR9\\Charlotte\\Lab6\\Lab6\\Lab6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{950A4E69-8301-4649-8A94-3E3CDE085999}|Lab6\\Lab6.vcxproj|solutionrelative:Lab6\\Lab6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Lab6.c",
-              "DocumentMoniker": "C:\\Users\\admin\\PycharmProjects\\PythonProject\\c\\Lab6\\Lab6\\Lab6.c",
+              "DocumentMoniker": "C:\\Users\\admin\\PycharmProjects\\PythonProject\\lab4\\LR9\\Charlotte\\Lab6\\Lab6\\Lab6.c",
               "RelativeDocumentMoniker": "Lab6\\Lab6.c",
-              "ToolTip": "C:\\Users\\admin\\PycharmProjects\\PythonProject\\c\\Lab6\\Lab6\\Lab6.c",
+              "ToolTip": "C:\\Users\\admin\\PycharmProjects\\PythonProject\\lab4\\LR9\\Charlotte\\Lab6\\Lab6\\Lab6.c",
               "RelativeToolTip": "Lab6\\Lab6.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-10-03T11:49:07.647Z",
               "EditorCaption": ""
